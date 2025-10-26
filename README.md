@@ -1,2 +1,3 @@
 # george-demo
 This is my first Git repository....
+Author - George Prince
